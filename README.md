@@ -4,7 +4,7 @@ A full-stack freelance escrow platform built on simulated Web3 payment rails whe
 ---
 
 ## Live Demo
-🔗 [View Live Project](aicrypto-pay.vercel.app) *(deploy link)*
+🔗 [aicrypto-pay.vercel.app](aicrypto-pay.vercel.app) *(deploy link)*
 No sign-in required use the mock wallet profiles to explore client and developer views.
 
 ---
